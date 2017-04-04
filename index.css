@@ -1,0 +1,101 @@
+.container{
+	margin-top: 10px;
+	padding: 50 50px;
+}
+
+body {
+	background: url(http://hd-wall-papers.com/images/wallpapers/flat-wallpaper/flat-wallpaper-13.png) no-repeat fixed;
+   -webkit-background-size: 100% 100%;
+   -moz-background-size: 100% 100%;
+   -o-background-size: 100% 100%;
+   background-size: 100% 100%;
+    padding: 20px; 
+}
+
+.tes{
+	margin-top: 	100px;
+}
+ 
+hr.garis {
+    border-top: 1px solid #00000;
+    border-bottom: 1px solid #00000;
+    height: 0px;
+    margin-bottom: 20px;
+}
+
+.p1{
+	font-family: 'Asap', sans-serif;
+	color: 	silver;
+	font-size: 15px;
+	letter-spacing: 	2px;
+}
+
+.p1-{
+	font-family: 'Rambla', sans-serif;
+		font-size: 15px;
+
+}
+
+.p2{
+		margin-left: 	5px;
+		letter-spacing: 	2px;
+
+
+}
+.p2-{
+		font-family: 'Didact Gothic', sans-serif;
+		margin-left: 	5px;
+		padding-right: 	330px;
+		color:silver;
+}
+img{
+	width: 25%;
+	margin-bottom: 10px;
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;
+    margin: 0 10px 10px 40px;
+}
+
+.img1{
+	width: 25%;
+	float:right;
+}
+
+h1{
+	font-family:"Great Vibes";
+	font-size:100px;
+	text-shadow: 20px 1px 50px #000000;
+	color: 	white;
+}
+
+h2{
+	font-family: 'Playball', cursive;
+	color:white;
+	text-align: right
+}
+
+.btn{
+	background-color: white;
+	color: 	black;
+}
+
+.h2kiri{
+	text-align: left;
+}
+
+.left{ 
+	text-align: left
+;}
+.right{ 
+	text-align: right
+;}
+.center{ 
+	text-align: center
+;}
+.justify{ 
+	text-align: justify
+;}
+
+}
